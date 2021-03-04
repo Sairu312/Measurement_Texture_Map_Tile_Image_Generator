@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{19ADD90C-EDCD-A191-9B9B-DAA38AE384CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CoodinateMatching.cs">
+    <Files>
+      <File FileName="Assets/Script/MakeTielImage.cs" Line="35" Column="34" />
+      <File FileName="Assets/Script/CoodinateMatching.cs" Line="42" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ff1c0b3-76d0-4a10-944e-a20da1c23abd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
